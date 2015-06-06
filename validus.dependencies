@@ -10,7 +10,7 @@
         "branch": "cm-12.1"
     },
     {
-        "repository": "CyanogenMod/android_device_samsung_n80xx-common",
+        "repository": "lirokoa/android_device_samsung_n80xx-common",
         "target_path": "device/samsung/n80xx-common",
         "branch": "cm-12.1"
     },
